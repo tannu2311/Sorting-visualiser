@@ -1,18 +1,17 @@
+
 # Sorting Visualizer
+##### This is a piece of code that helps visualize different Sorting Techniques which are:
 
-##### This is a piece of code that helps visualize different Sorting Techniques
 
+1. Bubble sort
+2. Insertion sort
+3. Selection sort
+4. Quick sort 
+5. Merge sort
 ## Preview
+![image](https://github.com/tannu2311/Sorting-visualiser/assets/83713524/49c1869c-df1c-47db-a158-688c2592aa96)
 
 
+![image](https://github.com/tannu2311/Sorting-visualiser/assets/83713524/7c166c6f-b6e2-427a-9ff5-f707bc9286ca)
 
 
-## Instructions
-
-1. [Download](https://github.com/neeleshpandey/SortingVisualizer/archive/refs/heads/main.zip) or Clone this Repository in your Local Environment
-
-2. Download and install [`Python3`](https://www.python.org/downloads/)
-
-3. Install libraries with `pip3 install -r requirements.txt` or `python3 -m pip install -r requirements.txt`
-
-4. run `main.py`
